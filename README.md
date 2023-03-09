@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayNRoy
 - 👀 I’m interested in computers, music, guitars, food, cycling, blender and unity.
-- 🌱 I’m currently learning javascript, python and C#.
+- 🌱 I’m currently learning python and C# and C.
 - 💞️ I’m looking to collaborate on blender, unity and game design.
 - 📫 How to reach me: write to me at jezoffy@gmail.com.
 
